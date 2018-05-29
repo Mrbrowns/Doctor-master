@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="Gradle: com.weibo:motan-transport-netty:1.1.1">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.weibo/motan-transport-netty/1.1.1/2b011e48835ba2a8c6c6b1b181ca0ba01b9aa17d/motan-transport-netty-1.1.1.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.weibo/motan-transport-netty/1.1.1/39178701b058e5d5ab8072ba9e4d48084de81472/motan-transport-netty-1.1.1-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

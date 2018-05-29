@@ -1,0 +1,7 @@
+rootProject.name = 'Doctor-master'
+include 'Doctor-common'
+include 'Doctor-util'
+include 'Doctor-admin'
+include 'Doctor-util'
+
+

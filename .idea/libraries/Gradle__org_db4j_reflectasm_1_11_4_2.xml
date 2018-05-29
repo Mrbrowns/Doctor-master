@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="Gradle: org.db4j:reflectasm:1.11.4-2">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.db4j/reflectasm/1.11.4-2/e14a234d2b00b7933775b74823026e8d24ebc0d6/reflectasm-1.11.4-2.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.db4j/reflectasm/1.11.4-2/722fcdbb1ff3ead69734f014ca59b826190cf04d/reflectasm-1.11.4-2-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

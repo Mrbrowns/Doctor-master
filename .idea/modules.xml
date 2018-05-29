@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Doctor-admin.iml" filepath="$PROJECT_DIR$/.idea/modules/Doctor-admin.iml" group="Doctor-admin" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Doctor-admin/Doctor-admin_main.iml" filepath="$PROJECT_DIR$/.idea/modules/Doctor-admin/Doctor-admin_main.iml" group="Doctor-admin" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Doctor-admin/Doctor-admin_test.iml" filepath="$PROJECT_DIR$/.idea/modules/Doctor-admin/Doctor-admin_test.iml" group="Doctor-admin" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Doctor-common/Doctor-common.iml" filepath="$PROJECT_DIR$/.idea/modules/Doctor-common/Doctor-common.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Doctor-master.iml" filepath="$PROJECT_DIR$/.idea/modules/Doctor-master.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Doctor-util.iml" filepath="$PROJECT_DIR$/.idea/modules/Doctor-util.iml" group="Doctor-util" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Doctor-util/Doctor-util_main.iml" filepath="$PROJECT_DIR$/.idea/modules/Doctor-util/Doctor-util_main.iml" group="Doctor-util" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Doctor-util/Doctor-util_test.iml" filepath="$PROJECT_DIR$/.idea/modules/Doctor-util/Doctor-util_test.iml" group="Doctor-util" />
+    </modules>
+  </component>
+</project>

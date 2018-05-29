@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="Gradle: com.weibo:motan-registry-zookeeper:1.1.1">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.weibo/motan-registry-zookeeper/1.1.1/8fc73af5dfda5fe9480e68b846c992d675756a8f/motan-registry-zookeeper-1.1.1.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.weibo/motan-registry-zookeeper/1.1.1/a0b5aba3401dd796e70ed4b8e443af6d2a9a0b1d/motan-registry-zookeeper-1.1.1-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

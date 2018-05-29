@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <bytecodeTargetLevel>
+      <module name="Doctor-admin_main" target="1.8" />
+      <module name="Doctor-admin_test" target="1.8" />
+      <module name="Doctor-common_main" target="1.8" />
+      <module name="Doctor-common_test" target="1.8" />
+      <module name="Doctor-doctor_main" target="1.8" />
+      <module name="Doctor-doctor_test" target="1.8" />
+      <module name="Doctor-master_main" target="1.8" />
+      <module name="Doctor-master_test" target="1.8" />
+      <module name="Doctor-user_main" target="1.8" />
+      <module name="Doctor-user_test" target="1.8" />
+      <module name="Doctor-util_main" target="1.8" />
+      <module name="Doctor-util_test" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+</project>

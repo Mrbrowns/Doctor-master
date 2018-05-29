@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="Gradle: cz.mallat.uasparser:uasparser:0.6.2">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/cz.mallat.uasparser/uasparser/0.6.2/c58b67dca32538ef00581d0eeb09bf7c31a9a97e/uasparser-0.6.2.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/cz.mallat.uasparser/uasparser/0.6.2/4d7a4e2137331fba8039b14852defef0d34a0516/uasparser-0.6.2-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
